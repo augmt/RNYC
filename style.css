@@ -1,0 +1,32 @@
+html {
+    line-height: 1.5;
+}
+body {
+    font-family: 'Armata';
+    margin: 24px auto;
+    max-width: 640px;
+}
+h1, fieldset, p {
+    margin-bottom: 24px;
+    margin-top: 0;
+}
+.heading-text {
+    font-family: 'Autour One';
+    text-align: center;
+}
+.generate__style {
+    font-family: inherit;
+    height: 28px;
+    margin-top: 20px;
+}
+.random__style {
+    border-bottom: 1px solid black;
+    display: table;
+    margin: 0 auto;
+}
+.credit {
+    margin-top: 24px;
+}
+.disclaimer {
+    color: red;
+}
