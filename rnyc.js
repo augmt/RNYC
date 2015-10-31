@@ -141,8 +141,7 @@
         if (neighborhoods.length) {
             document.getElementById("random").textContent = shuffle(neighborhoods)[0];
         } else {
-            document.getElementById("random").textContent = "Select a neighborhood!";
+            document.getElementById("random").textContent = "Select a borough!";
         }
     });
 }());
-            
